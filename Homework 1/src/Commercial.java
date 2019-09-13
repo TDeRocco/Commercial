@@ -15,5 +15,3 @@ public class Commercial {
 		// TODO Auto-generated method stub
 
 	}
-
-}
